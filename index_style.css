@@ -1,0 +1,24 @@
+body {
+	font-family: "Avenir Next" !important;
+	background-color: #FFFFCC;
+	padding-bottom: 50px;
+}
+
+h1 {
+  color: navy;
+  text-align:center;
+}
+
+p{
+	text-align:center;
+}
+
+a {
+	font-size: 30px;
+}
+
+img {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+

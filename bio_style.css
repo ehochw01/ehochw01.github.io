@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	font-family: "Avenir Next" !important;
+	text-align: justify;
+	color: navy;
+	background-color: #FFFFCC;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+p {
+	padding-top: 10px;
+}
